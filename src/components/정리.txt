@@ -1,0 +1,6 @@
+ctrl D 똑같은 단어 선택
+
+
+git
+git init : git관리상태시작
+git remote add origin https://github.com/JeongJaeWook/react-todo-app.git
